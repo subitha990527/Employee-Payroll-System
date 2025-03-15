@@ -12,3 +12,19 @@ C:\Users\MY USER\Desktop\Employee Payroll System\PayrollSystem\obj\Debug\net8.0\
 C:\Users\MY USER\Desktop\Employee Payroll System\PayrollSystem\obj\Debug\net8.0\PayrollSystem.pdb
 C:\Users\MY USER\Desktop\Employee Payroll System\PayrollSystem\obj\Debug\net8.0\PayrollSystem.genruntimeconfig.cache
 C:\Users\MY USER\Desktop\Employee Payroll System\PayrollSystem\obj\Debug\net8.0\ref\PayrollSystem.dll
+C:\Users\MY USER\Desktop\Employee Payroll System\PayrollSystem\obj\Debug\net8.0\PayrollSystem.sourcelink.json
+E:\Projects I Build\Employee Payroll System\PayrollSystem\bin\Debug\net8.0\PayrollSystem.exe
+E:\Projects I Build\Employee Payroll System\PayrollSystem\bin\Debug\net8.0\PayrollSystem.deps.json
+E:\Projects I Build\Employee Payroll System\PayrollSystem\bin\Debug\net8.0\PayrollSystem.runtimeconfig.json
+E:\Projects I Build\Employee Payroll System\PayrollSystem\bin\Debug\net8.0\PayrollSystem.dll
+E:\Projects I Build\Employee Payroll System\PayrollSystem\bin\Debug\net8.0\PayrollSystem.pdb
+E:\Projects I Build\Employee Payroll System\PayrollSystem\obj\Debug\net8.0\PayrollSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects I Build\Employee Payroll System\PayrollSystem\obj\Debug\net8.0\PayrollSystem.AssemblyInfoInputs.cache
+E:\Projects I Build\Employee Payroll System\PayrollSystem\obj\Debug\net8.0\PayrollSystem.AssemblyInfo.cs
+E:\Projects I Build\Employee Payroll System\PayrollSystem\obj\Debug\net8.0\PayrollSystem.csproj.CoreCompileInputs.cache
+E:\Projects I Build\Employee Payroll System\PayrollSystem\obj\Debug\net8.0\PayrollSystem.sourcelink.json
+E:\Projects I Build\Employee Payroll System\PayrollSystem\obj\Debug\net8.0\PayrollSystem.dll
+E:\Projects I Build\Employee Payroll System\PayrollSystem\obj\Debug\net8.0\refint\PayrollSystem.dll
+E:\Projects I Build\Employee Payroll System\PayrollSystem\obj\Debug\net8.0\PayrollSystem.pdb
+E:\Projects I Build\Employee Payroll System\PayrollSystem\obj\Debug\net8.0\PayrollSystem.genruntimeconfig.cache
+E:\Projects I Build\Employee Payroll System\PayrollSystem\obj\Debug\net8.0\ref\PayrollSystem.dll

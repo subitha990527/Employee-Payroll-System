@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MY USER\\Desktop\\Employee Payroll System\\PayrollSystem\\PayrollSystem.csproj": {}
+    "E:\\Projects I Build\\Employee Payroll System\\PayrollSystem\\PayrollSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MY USER\\Desktop\\Employee Payroll System\\PayrollSystem\\PayrollSystem.csproj": {
+    "E:\\Projects I Build\\Employee Payroll System\\PayrollSystem\\PayrollSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MY USER\\Desktop\\Employee Payroll System\\PayrollSystem\\PayrollSystem.csproj",
+        "projectUniqueName": "E:\\Projects I Build\\Employee Payroll System\\PayrollSystem\\PayrollSystem.csproj",
         "projectName": "PayrollSystem",
-        "projectPath": "C:\\Users\\MY USER\\Desktop\\Employee Payroll System\\PayrollSystem\\PayrollSystem.csproj",
+        "projectPath": "E:\\Projects I Build\\Employee Payroll System\\PayrollSystem\\PayrollSystem.csproj",
         "packagesPath": "C:\\Users\\MY USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MY USER\\Desktop\\Employee Payroll System\\PayrollSystem\\obj\\",
+        "outputPath": "E:\\Projects I Build\\Employee Payroll System\\PayrollSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MY USER\\AppData\\Roaming\\NuGet\\NuGet.Config"

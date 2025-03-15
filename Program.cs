@@ -15,12 +15,12 @@ namespace PayrollSystem
 
     public class Manager : BaseEmployee
     {
-        public override decimal CalculateSalary() => BasicPay + Allowances - BasicPay * 0.1M; // 10% deduction
+        public override decimal CalculateSalary() => BasicPay + Allowances; // 10% deduction
     }
 
     public class Developer : BaseEmployee
     {
-        public override decimal CalculateSalary() => BasicPay + Allowances - BasicPay * 0.05M; // 5% deduction
+        public override decimal CalculateSalary() => BasicPay + Allowances; // 5% deduction
     }
 
     public class Intern : BaseEmployee
